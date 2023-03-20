@@ -67,15 +67,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sungik-choi/gatsby-starter-apple.git"
+    "url": "https://github.com/kindlee1989/kindlee1989.github.io.git"
   },
   "keywords": [
     "gatsby"
   ],
-  "author": "Sungik Choi <sungik.dev@gmail.com> (http://sungikchoi.com/)",
+  "author": "Dajeong Lee <da890514@gmail.com> (https://kindlee1989.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sungik-choi/gatsby-starter-apple/issues"
+    "url": "https://github.com/kindlee1989/kindlee1989.github.io.git"
   },
-  "homepage": "https://github.com/sungik-choi/gatsby-starter-apple#readme"
+  "homepage": "https://kindlee1989.github.io/"
 }
