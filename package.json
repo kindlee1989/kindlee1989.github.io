@@ -13,7 +13,8 @@
     "clean": "gatsby clean",
     "lint": "eslint '**/*.{ts,tsx}'",
     "lint:fix": "npm run lint -- --fix",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:${kindlee1989}/${kindlee1989}.github.io.git'"
   },
   "dependencies": {
     "dark-theme-github": "github:remorses/dark-github-theme",
